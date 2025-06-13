@@ -2,7 +2,7 @@
 
 Description
 - The Classification model is a supervise learning. this model used for prediction for classification value.
-- In this case, the model is designed to predict the CATEGORY_ERROR with mutiple label. 
+- In this case, the model is designed to predict the CATEGORY_ERROR with mutiple class. 
 
 Objective
 - The dataset have multi-class issues,use label encoding to the category value.
